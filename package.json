@@ -1,0 +1,24 @@
+{
+  "name": "timestamp",
+  "version": "1.0.0",
+  "description": "freecodecamp.com project for learning node development with express.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanjamesmcgill/timestamp.git"
+  },
+  "author": "Ryan McGill <ryanjamesmcgill@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryanjamesmcgill/timestamp/issues"
+  },
+  "engines": "v4.2.3",
+  "homepage": "https://github.com/ryanjamesmcgill/timestamp#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "moment": "^2.13.0"
+  }
+}
