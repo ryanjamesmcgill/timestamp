@@ -2,8 +2,8 @@
 
 
 ## Overview
-freecodecamp.com project
-demo: <a href="#">heroku-link</a>
+freecodecamp.com project <br>
+<strong>live demo:</strong> <a href="#">heroku-link</a>
 
 ## Usage
 
