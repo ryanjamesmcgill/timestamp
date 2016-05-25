@@ -1,8 +1,5 @@
 # API Basejump: Timestamp microservice
 
-
-## Overview
-freecodecamp.com project <br>
 <strong>live demo:</strong> <a href="#">heroku-link</a>
 
 ## Usage
