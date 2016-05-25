@@ -2,7 +2,6 @@
 
 
 ## Overview
-freecodecamp.com project
 demo: <a href="#">heroku-link</a>
 
 ## Usage
